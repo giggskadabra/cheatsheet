@@ -1,0 +1,33 @@
+html{
+    background-color: beige
+}
+
+h1, h3, footer{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
+
+table, thead, th, td {
+  border: solid, black, 1px;
+  font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    text-align: justify;
+    padding: 10px;
+}
+
+table {
+    margin: 20px auto;
+}
+
+.tag {
+    font-weight: bold;
+    background-color: yellow;
+}
+.table-head {
+    background-color:blueviolet
+}
