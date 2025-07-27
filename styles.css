@@ -27,7 +27,6 @@ table {
 .tag {
     font-weight: bold;
     background-color: yellow;
-    text-transform: lowercase;
 }
 .table-head {
     background-color:blueviolet
